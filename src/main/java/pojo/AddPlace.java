@@ -4,7 +4,7 @@ import java.util.List;
 
 public class AddPlace 
 {
-//addplace
+//addplace API
 	private int accuracy;
 	private String name;
 	private String phone_number;
