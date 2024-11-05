@@ -2,8 +2,9 @@ package pojo;
 
 import java.util.List;
 
-public class AddPlace {
-
+public class AddPlace 
+{
+//addplace
 	private int accuracy;
 	private String name;
 	private String phone_number;
